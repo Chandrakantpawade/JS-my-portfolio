@@ -23,4 +23,4 @@ This is a personal portfolio project built to showcase my web development skills
 - *Event Handling:* Integrated event listeners for smooth user interactions.
 
 ## 📷 Screenshots
-![Image Description](images/ss1,ss2,ss3,ss4,js)
+
